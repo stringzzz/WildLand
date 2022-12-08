@@ -1,0 +1,28 @@
+Wild Land: Organism Environment Simulator version 1.0
+Tigers vs. Cats vs. Mice vs. Bugs
+
+This project was inspired in part by Conway's Game of Life, and
+also the idea of artificial organisms.
+
+Food Chain:
+
+1. Tigers "t"
+2. Cats "c"
+3. Mice "m"
+4. Bugs "b"
+5. Food "."
+
+Each organism is capable of eating anything below it on the chain.
+
+At the start, place a bet on an organism. Each one has a different payout according
+to their place on the food chain. After starting, organisms will move around at random,
+eating food "." or potentially other organisms along the way. Once they have enough 
+health from eating, they can reproduce copies of themselves. Each movement costs
+health, so an organism will die if it doesn't get enough food. The last type of organism
+left standing is the winner.
+
+This project was created over a year ago when I was still in the early stages of learning C++.
+As such, it definitely needs a lot of cleaning up, which will be a future project. Also, to note,
+this version was modified to work on Linux. To work on Windows again, refer to the comments
+labeled "//WINDOWS USAGE"
+
