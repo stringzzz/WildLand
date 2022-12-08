@@ -17,7 +17,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
-Wild Land: Organism Environment Simulator version 0.09
+Wild Land: Organism Environment Simulator version 1.0
 Tigers vs. Cats vs. Mice vs. Bugs
 
 Food Chain:
